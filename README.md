@@ -1,4 +1,4 @@
-# Pharmacy-management-system
+
 # Pharmacy Management System
 
 This is a simple Pharmacy Management System built using Python's Tkinter library. It allows users to manage drug inventory, record sales, and view sales history.
